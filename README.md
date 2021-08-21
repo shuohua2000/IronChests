@@ -1,4 +1,4 @@
-# Iron Chests
+# Iron Chests test
 
 ## ChangeLog
 This Changelog also contains plans for future releases, which might change!
